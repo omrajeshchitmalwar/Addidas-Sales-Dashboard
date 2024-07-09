@@ -1,4 +1,4 @@
-###### 📊 Adidas Sales Dashboard
+###### 📊 Adidas Sales Dashboard ######
 
 
 🗓️ Project Duration<br>
@@ -12,6 +12,8 @@ Sales Trends 📉<br>
 Regional Performance 🌍<br>
 Sales Methods 🛒<br>
 Retailer Insights 🏬<br>
+Give this repository a ⭐ if you liked it, since it took me time to analyze and design this. <br>
+Made with ❤️ by Om Rajesh Chitmalwar<br>
 
 🔍 Key Features<br>
 📊 Sales Trends<br>

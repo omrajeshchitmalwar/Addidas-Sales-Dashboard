@@ -1,4 +1,4 @@
-###### 📊 Adidas Sales Dashboard ######
+###### Adidas Sales Dashboard ######
 
 
 🗓️ Project Duration<br>

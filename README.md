@@ -11,6 +11,8 @@ Retailer Insights 🏬<br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this. <br>
 Made with ❤️ by <b>Om Rajesh Chitmalwar</b><br>
 <br>
+![Adidas - 1](https://github.com/omrajeshchitmalwar/Adidas-Sales-Dashboard/assets/92293388/6b822920-f770-4f86-abea-393e77e58b6a)
+<br>
 
 
 <h3>🗓️ Project Duration</h3>

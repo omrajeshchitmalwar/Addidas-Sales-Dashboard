@@ -1,5 +1,5 @@
 ###### 📊 Adidas Sales Dashboard
-<br>
+
 
 🗓️ Project Duration<br>
 Oct 2023 - Oct 2023

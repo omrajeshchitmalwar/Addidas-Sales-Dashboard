@@ -1,11 +1,11 @@
 <h1> Adidas Sales Dashboard </h1>
 
 
-🗓️ Project Duration<br>
+<h3>🗓️ Project Duration</h3><br>
 Oct 2023 - Oct 2023
 <br>
 
-📈 Project Overview<br>
+<h3>📈 Project Overview</h3><br>
 The Adidas Sales Dashboard is a comprehensive project designed in MS Excel to analyze various aspects of Adidas sales data. This dashboard provides valuable insights into:
 <br>
 Sales Trends 📉<br>
@@ -15,7 +15,7 @@ Retailer Insights 🏬<br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this. <br>
 Made with ❤️ by Om Rajesh Chitmalwar<br>
 
-🔍 Key Features<br>
+<h3>🔍 Key Features</h3><br>
 📊 Sales Trends<br>
 Visualizations and analysis of sales performance over time.<br>
 Identifies patterns, fluctuations, and growth opportunities.<br>
@@ -36,19 +36,19 @@ Provides data on sales generated through different retail partners or channels.<
 Analyzes sales by retailer, product performance at specific outlets, and regional variations.<br>
 Offers insights into retailer performance to help drive strategic decisions.<br>
 
-💼 Skills Utilized<br>
+<h3>💼 Skills Utilized</h3><br>
 Excel Dashboards 📊<br>
 KPI Dashboards 📈<br>
 PowerPivot 🔄<br>
 
-📥 Getting Started<br>
+<h3>📥 Getting Started</h3><br>
 1. Clone the repository: git clone https://github.com/yourusername/Adidas-Sales-Dashboard.git<br>
 2. Navigate to the project directory: cd Adidas-Sales-Dashboard<br>
 3. Open the Excel file: Open Adidas_Sales_Dashboard.xlsx in MS Excel to explore the dashboard.<br>
 
-🌟 Acknowledgements<br>
+<h3>🌟 Acknowledgements</h3><br>
 Special thanks to the data analysis and visualization communities for inspiration and support.<br>
 Adidas for providing the sales data used in this project.<br>
 
-📬 Contact<br>
+<h3>📬 Contact</h3><br>
 For any questions or feedback, please reach out to omrajeshchitmalwar.com.<br>

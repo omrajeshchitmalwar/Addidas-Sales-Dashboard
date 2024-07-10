@@ -1,7 +1,10 @@
 <h1> Adidas Sales Dashboard </h1>
 
+![image](https://github.com/omrajeshchitmalwar/Adidas-Sales-Dashboard/assets/92293388/8c85bf69-d674-40a0-a8ce-1d291163ef61)
+
 The Adidas Sales Dashboard is a comprehensive project designed in MS Excel to analyze various aspects of Adidas sales data. This dashboard provides valuable insights into:
 <br>
+
 <br>
 Sales Trends 📉<br>
 Regional Performance 🌍<br>
@@ -11,9 +14,6 @@ Retailer Insights 🏬<br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this. <br>
 Made with ❤️ by <b>Om Rajesh Chitmalwar</b><br>
 <br>
-![Adidas - 1](https://github.com/omrajeshchitmalwar/Adidas-Sales-Dashboard/assets/92293388/fcefbaf4-f456-42fd-9650-b7740492f303)
-<br>
-
 
 <h3>🗓️ Project Duration</h3>
 Oct 2023 - Oct 2023
@@ -41,7 +41,9 @@ Compares performance of these methods to identify success areas and needed adjus
 <h4>🏬 Retailer Insights</h4>
 Provides data on sales generated through different retail partners or channels.<br>
 Analyzes sales by retailer, product performance at specific outlets, and regional variations.<br>
-Offers insights into retailer performance to help drive strategic decisions.<br>
+Offers insights into retailer performance to help drive strategic decisions.<br><br>
+
+![Adidas - 1](https://github.com/omrajeshchitmalwar/Adidas-Sales-Dashboard/assets/92293388/fcefbaf4-f456-42fd-9650-b7740492f303)
 <br>
 
 <h3>💼 Skills Utilized</h3>
